@@ -19,7 +19,7 @@ If these scripts were useful to you, consider donating to support the Developer 
 1. Clone this repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/nunombispo/Reflex-Article
 cd Reflex-Article
 ```
 
